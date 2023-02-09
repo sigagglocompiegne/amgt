@@ -17,4 +17,4 @@ L’ARC privilégie donc une organisation dans laquelle l’Interface Homme Mach
 
 ## Jeu de données consolidé
 
-  * [Les procédures d'aménagement à l'échelle de l'Aglgomération de la Région de Compiègne](https://geo.compiegnois.fr/geonetwork/srv/fre/catalog.search#/metadata/65113f65-f4a0-4bcb-aa2c-04b5991eaef2)
+  * [Les procédures d'aménagement à l'échelle de l'Agglomération de la Région de Compiègne](https://geo.compiegnois.fr/geonetwork/srv/fre/catalog.search#/metadata/65113f65-f4a0-4bcb-aa2c-04b5991eaef2)
