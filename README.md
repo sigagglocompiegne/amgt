@@ -2,17 +2,6 @@
 
 # Prescriptions spécifiques (locales) pour le suivi des opérations d'aménagement
 
-[x] à rédiger [ ] en cours de rédaction [ ] finaliser
-
-Ensemble des éléments constituant la mise en oeuvre de la base de données les opérations d'aménagements (ZAC, lotissement, ...) :
-
-- [ChangeLog](gabarit/livrables.md)
-- Script d'initialisation de la base de données
-  * [Suivi des modifications](bdd/amgt_00_trace.sql)
-  * [Structure des données](bdd/amgt_10_squelette.sql)
-
-- [Documentation d'administration de la base de données](bdd/doc_admin_bd_amgt.md)
-- Documentation utilisateur 
 
 ## Contexte
 
@@ -22,7 +11,7 @@ L’ARC privilégie donc une organisation dans laquelle l’Interface Homme Mach
 
 ## Voir aussi
 
-- 
+ 
 
 
 ## Jeu de données consolidé (ancienne structure toujours en production)
