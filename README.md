@@ -11,7 +11,7 @@ L’ARC privilégie donc une organisation dans laquelle l’Interface Homme Mach
 
 ## Voir aussi
 
- 
+ - [Activité économique](https://github.com/sigagglocompiegne/acti_eco)
 
 
 ## Jeu de données consolidé (ancienne structure toujours en production)
