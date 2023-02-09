@@ -2,6 +2,7 @@
 
 # Prescriptions spécifiques (locales) pour le suivi des opérations d'aménagement
 
+Cette donnée est complétement intégrée au domaine de l'activité économique.
 
 ## Contexte
 
